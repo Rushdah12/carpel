@@ -1275,7 +1275,7 @@ Formatting rules:
               {outOfCredits ? (
                 <div className="tp-out-of-credits">
                   <div className="tp-out-heading">You've used all 5 reflections.</div>
-                  <p className="tp-out-sub">Thank you for trying carpel. Your feedback would mean a lot — reach out at <strong>rushdah@carpel.app</strong></p>
+                  <p className="tp-out-sub">Thank you for trying carpel. Your feedback would mean a lot — reach out at <strong>rushdahadnan@gmail.com</strong></p>
                 </div>
               ) : (
                 <>
